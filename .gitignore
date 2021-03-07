@@ -1,0 +1,9 @@
+# Visual Studio (code) files
+.vs/
+.vscode/
+
+# Windows folder configuration file
+Desktop.ini
+
+# Giteye project file
+/.project
